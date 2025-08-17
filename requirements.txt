@@ -1,0 +1,5 @@
+lighter
+pandas
+numpy
+scipy
+requests
